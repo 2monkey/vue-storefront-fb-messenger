@@ -17,6 +17,6 @@ Add this to your config
 
 ```javascript
     "fbchat": {
-      "id": false
+      "id": your-fb-page-id
     },
 ```
