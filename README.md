@@ -10,3 +10,13 @@ You should just add your extension name to:
 ```javascript
  "registeredExtensions": ["fb-customer-chat"]
 ```
+
+# Config
+
+Add this to your config
+
+```javascript
+    "fbchat": {
+      "id": false
+    },
+```
